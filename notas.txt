@@ -1,0 +1,10 @@
+Descargar mongoDB
+Descargar robo 3T
+Iniciar mongo
+
+Crear nueva conexion con robo 3T y configurar
+Crear base de datos, crear collección (Tabla)
+    Insertar docuemento (Se agrega un JSON)
+
+git tag -a v0.0.1 -m "Alpha - Inicio de proyecto"
+git tag
